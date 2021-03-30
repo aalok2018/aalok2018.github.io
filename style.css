@@ -1,0 +1,28 @@
+body {
+  font-family: "Open Sans", helvetica, arial, sans-serif;
+  margin: 3%;
+}
+
+h1 {
+  color: blue;
+}
+
+h2 {
+  color: teal
+}
+
+.main {
+  display: flex;
+  justify-content: space-around;
+  height: 70vh;
+}
+
+.left, .right {
+  width: 46vw;
+}
+
+img {
+  height: 40vh;
+  width: auto;
+  margin: 3vh 0;
+}
